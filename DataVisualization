@@ -1,9 +1,0 @@
-I worked on this project where I used pandas to handle data and matplotlib and/or seaborn to visualize it.
-In this project, I took a second look at two cryptocurrencies, Bitcoin and Ethereum.
-In the first problem, I revisited the cryptocurrencies Bitcoin and Ethereum. After that, I focused on visualizing the price fluctuations of Bitcoin throughout the year 2021.
-Initially, I plotted the price development as it is.
-Then, I aimed to extract data specifically from Mondays using the pandas day_name method, which provides the weekday from a date.
-I created a data frame containing only data from Mondays and plotted the closing price evolution. I marked positive price changes between two weeks in green and negative changes in red.
-I also created a dataframe with indicators for price ups and downs and grouped them into blocks. I visualized these ups and downs separately.
-To compare Bitcoin and Ethereum, I constructed a grid displaying histograms of their closing prices and scatterplots with regression lines.
-Lastly, I repeated the graph from part (c) but focused on the differences in closing prices between consecutive days.
